@@ -23,7 +23,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% comment %}
 {% endcomment %}
 
-
+{% comment %}
 <div class="alert alert-danger">
 This is the workshop template. Delete these lines and use it to
 <a href="https://carpentries.github.io/workshop-template/customization/index.html">customize</a>
@@ -38,7 +38,7 @@ For workshops teaching a lesson in The Carpentries Incubator,
 remember to uncomment the `incubator_lesson_site`, `incubator_pre_survey`, and `incubator_post_survey`
 fields in `_config.yml`
 </div>
-
+{% endcomment %}
 {% comment %}
 8< ============================= until here ==================
 {% endcomment %}
