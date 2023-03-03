@@ -370,6 +370,8 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule</h2>
 
+<p>Please note that the timings and where we aim to be at each point are indicative and might not reflect the reality of where we are at each point in time on the day.</p>
+
 {% include custom-schedule.html %}
 
 {% comment %}
