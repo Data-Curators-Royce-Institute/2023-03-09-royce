@@ -155,6 +155,8 @@ address.
   If you need a password or other information to access the training,
   the instructor will pass it on to you before the workshop.
 </p>
+<p>If you are not familiar with the University of Manchester campus, please see the image <a href='#royce-hub-map'>below</a> for guidance on how to get to the Royce Hub Building.
+</p>
 {% elsif online == "true_private" %}
 <p id="where">
   <strong>Where:</strong> This training will take place online.
@@ -202,11 +204,13 @@ special instructions.
   <strong>Accessibility:</strong>
 {% if online == "false" %}
   We are committed to making this workshop
-  accessible to everybody.  For workshops at a physical location, the workshop organizers have checked that:
+  accessible to everybody.  The Royce Hub Building is:
 </p>
 <ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
+  <li>Wheelchair / scooter accessible.</li>
+  <li>The teaching room is accessible via lift and stairs. We are a secure facility so if you need access to the lift please ask the host to accompany you.</li>
+  <li>There is one accessible restroom and two smaller restrooms near the teaching room.</li>
+  <li>There are accessible restrooms available on every floor you will be on.</li>
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
@@ -444,3 +448,7 @@ Please check the "Setup" page of
 [the lesson site]({{ site.incubator_lesson_site }}) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
+<h2 id="royce-hub-map">How to get to the Royce Hub Building</h2>
+<p>
+<img src='assets/img/Royce_Hub_Travel_Info.png'>
+</p>
