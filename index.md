@@ -204,7 +204,7 @@ special instructions.
   <strong>Accessibility:</strong>
 {% if online == "false" %}
   We are committed to making this workshop
-  accessible to everybody.  The Royce Hub Building is:
+  accessible to everybody. The Royce Hub Building is:
 </p>
 <ul>
   <li>Wheelchair / scooter accessible.</li>
