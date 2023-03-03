@@ -450,5 +450,5 @@ to obtain the software and data you will need to follow the lesson.
 {% endif %}
 <h2 id="royce-hub-map">How to get to the Royce Hub Building</h2>
 <p>
-<img src='assets/img/Royce_Hub_Travel_Info.png' style='width:60%'>
+<img src='assets/img/Royce_Hub_Travel_Info.png' style='width:75%'>
 </p>
